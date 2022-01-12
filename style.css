@@ -1,0 +1,31 @@
+body{
+  background-color: #34568B;
+}
+.container{
+  margin: auto;
+  margin-bottom: 1rem;
+}
+    
+img{
+    height: 15rem;
+    width: 18rem;
+    
+}
+
+
+  body::-webkit-scrollbar {
+    display: none;
+  }
+#sports-img{
+    height:12rem;
+    width: 18rem;
+}
+#gk-img{
+    height: 12rem;
+    width: 18rem;
+}
+.card{
+  box-shadow: 5px 10px #888888;
+  
+}
+
